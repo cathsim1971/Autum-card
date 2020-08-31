@@ -1,0 +1,14 @@
+body {
+  background-color: #f3ebcc;
+}
+div.container {
+    margin: 0px auto;
+    width: auto;
+    height: 480px;
+    border: 10px solid #fff;
+}
+#card-frame {
+  width: 100%;
+  height: inherit;
+  border: none;
+}
